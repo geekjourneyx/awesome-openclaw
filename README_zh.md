@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Awesome OpenClaw" width="200" />
+<img src="assets/logo.png" alt="Awesome OpenClaw" width="480" />
 
 # Awesome OpenClaw
 
