@@ -1,0 +1,30 @@
+name: Markdown Lint
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Markdown Lint
+        uses: actionshub/markdownlint@v4
+        with:
+          config: '.markdownlint.json'
+          files: '**/*.md'
+          ignore: 'node_modules'
+
+      - name: Lint Results
+        if: failure()
+        run: |
+          echo "::warning::Markdown linting failed. Please fix the issues above."
