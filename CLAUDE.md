@@ -18,7 +18,7 @@
 
 | Item | Value |
 |------|-------|
-| **Repository** | openclaw-tools/awesome-openclaw |
+| **Repository** | geekjourneyx/awesome-openclaw |
 | **License** | MIT |
 | **Languages** | English (primary), Chinese (simplified) |
 | **Target Audience** | Global developers, Chinese AI/LLM enthusiasts |
@@ -404,7 +404,7 @@ jq < package.json
 - **X (Twitter)**: https://x.com/seekjourney
 - **WeChat**: 极客杰尼
 - **Discord**: https://discord.gg/openclaw
-- **GitHub Issues**: https://github.com/openclaw-tools/awesome-openclaw/issues
+- **GitHub Issues**: https://github.com/geekjourneyx/awesome-openclaw/issues
 
 ---
 

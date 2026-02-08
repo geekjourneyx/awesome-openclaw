@@ -32,7 +32,7 @@ Found an awesome OpenClaw resource? We'd love to add it!
 
 Found a bug or have a suggestion?
 
-1. Check existing [issues](https://github.com/openclaw-tools/awesome-openclaw/issues)
+1. Check existing [issues](https://github.com/geekjourneyx/awesome-openclaw/issues)
 2. Create a new issue with:
    - Clear title
    - Detailed description
@@ -262,7 +262,7 @@ Project maintainers reserve the right to remove, edit, or reject comments, commi
 ## Recognition
 
 Contributors are recognized in:
-- The [Contributors](https://github.com/openclaw-tools/awesome-openclaw/graphs/contributors) section
+- The [Contributors](https://github.com/geekjourneyx/awesome-openclaw/graphs/contributors) section
 - Release notes for significant contributions
 - Annual community appreciation posts
 
@@ -272,7 +272,7 @@ Contributors are recognized in:
 
 -  Read the [documentation](https://docs.openclaw.ai/)
 -  Join our [Discord](https://discord.gg/openclaw)
--  Open a [discussion](https://github.com/openclaw-tools/awesome-openclaw/discussions)
+-  Open a [discussion](https://github.com/geekjourneyx/awesome-openclaw/discussions)
 
 ---
 

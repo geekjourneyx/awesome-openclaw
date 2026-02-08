@@ -254,7 +254,7 @@ openclaw test web-search
 
 ### 2. 获取 API 密钥
 
-1. 登录后进入 [API Keys 页面](https://tavily.com/home/api-keys)
+1. 登录后进入 API Keys 页面
 2. 复制你的 API 密钥
 
 ### 3. 配置 OpenClaw
@@ -353,8 +353,7 @@ openclaw test web-search --provider tavily
 
 #### 选项 A: 直接使用 Perplexity
 
-1. 访问 [Perplexity API](https://www.perplexity.ai/)
-2. 注册并获取 API 密钥 (以 `pplx-` 开头)
+1. 注册 Perplexity 账号并获取 API 密钥 (以 `pplx-` 开头)
 
 #### 选项 B: 通过 OpenRouter (推荐)
 

@@ -30,7 +30,7 @@ about: Submit a pull request for review
 
 ## Checklist
 
-- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md)
+- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [ ] My code follows the style guidelines
 - [ ] I have performed a self-review of my changes
 - [ ] I have commented my code where necessary

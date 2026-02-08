@@ -5,9 +5,9 @@
 #  Awesome OpenClaw
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Stars](https://img.shields.io/github/stars/openclaw-tools/awesome-openclaw?style=social)](https://github.com/openclaw-tools/awesome-openclaw)
+[![Stars](https://img.shields.io/github/stars/geekjourneyx/awesome-openclaw?style=social)](https://github.com/geekjourneyx/awesome-openclaw)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/openclaw-tools/awesome-openclaw)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/geekjourneyx/awesome-openclaw)
 
 [**English**](README.md) | [**简体中文**](README_zh.md)
 
@@ -588,12 +588,6 @@ openclaw skills reinstall <skill-name>
 | **Website** | [openclaw.ai](https://openclaw.ai/) | Official site |
 | **Docs** | [docs.openclaw.ai](https://docs.openclaw.ai/) | Documentation |
 | **X/Twitter** | [@openclawai](https://x.com/openclawai) | Updates & news |
-
-### Community Projects
-
-- [OpenClaw Hub](https://hub.openclaw.ai/) - Community skill registry
-- [OpenClaw Configs](https://github.com/openclaw/awesome-configs) - Shared configurations
-- [OpenClaw Templates](https://github.com/openclaw/templates) - Starter templates
 
 ### Contributing
 
