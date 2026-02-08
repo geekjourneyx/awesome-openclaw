@@ -587,7 +587,8 @@ openclaw skills reinstall <技能名称>
 | **GitHub** | [github.com/openclaw](https://github.com/openclaw) | 源代码和问题 |
 | **官网** | [openclaw.ai](https://openclaw.ai/) | 官方网站 |
 | **文档** | [docs.openclaw.ai](https://docs.openclaw.ai/) | 文档 |
-| **微博** | [@openclawai](https://x.com/openclawai) | 更新和新闻 |
+| **ClawHub** | [clawhub.ai](https://clawhub.ai/) | 技能注册与下载 |
+| **X/Twitter** | [@openclawai](https://x.com/openclawai) | 更新和新闻 |
 
 ### 贡献
 

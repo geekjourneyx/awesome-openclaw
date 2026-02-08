@@ -587,6 +587,7 @@ openclaw skills reinstall <skill-name>
 | **GitHub** | [github.com/openclaw](https://github.com/openclaw) | Source code & issues |
 | **Website** | [openclaw.ai](https://openclaw.ai/) | Official site |
 | **Docs** | [docs.openclaw.ai](https://docs.openclaw.ai/) | Documentation |
+| **ClawHub** | [clawhub.ai](https://clawhub.ai/) | Skill registry & downloads |
 | **X/Twitter** | [@openclawai](https://x.com/openclawai) | Updates & news |
 
 ### Contributing

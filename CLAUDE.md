@@ -24,6 +24,16 @@
 | **Target Audience** | Global developers, Chinese AI/LLM enthusiasts |
 | **SEO Focus** | OpenClaw, AI agent, chatbot, WhatsApp, Telegram, Claude, GPT |
 
+### Official Resources
+
+| Resource | URL | Description |
+|----------|-----|-------------|
+| **Official Site** | https://openclaw.ai/ | Main website |
+| **Documentation** | https://docs.openclaw.ai/ | Official docs |
+| **ClawHub** | https://clawhub.ai/ | Skill registry & downloads |
+| **Discord** | https://discord.gg/openclaw | Community chat |
+| **GitHub** | https://github.com/openclaw/openclaw | Source code |
+
 ---
 
 ## Project Structure
