@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Markdown Lint
-        uses: actionshub/markdownlint@v4
+        uses: avto-dev/markdown-lint-action@v1
         with:
           config: '.markdownlint.json'
           files: '**/*.md'
