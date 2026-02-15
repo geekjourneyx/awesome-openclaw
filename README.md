@@ -29,6 +29,7 @@
 - [Configuration](#configuration)
 - [Channels](#channels)
 - [Tools](#tools)
+- [Community Plugins](#community-plugins)
 - [Model Providers](#model-providers)
 - [Guides](#guides)
 - [Official Resources](#official-resources)
@@ -204,6 +205,18 @@ Pre-configured tool allowlists for different use cases:
 | `coding` | fs, runtime, sessions, memory, image | Development work |
 | `messaging` | messaging, sessions operations | Chat-focused agents |
 | `full` | No restrictions (default) | Full agent capabilities |
+
+---
+
+## Community Plugins
+
+Third-party plugins that extend OpenClaw with new hooks, tools, and integrations. Install with `openclaw plugins install <name>`.
+
+| Plugin | Description | Install |
+|--------|-------------|---------|
+| **[markdown-strip](https://github.com/synistr/openclaw-plugin-markdown-strip)** | Strips Markdown formatting from outgoing messages on plaintext channels like iMessage | `openclaw plugins install markdown-strip` |
+
+> Know a plugin that should be listed here? [Open a PR!](https://github.com/geekjourneyx/awesome-openclaw/pulls)
 
 ---
 
